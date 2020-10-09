@@ -36,10 +36,12 @@
 <hr>
 
 # Table of contents
-
+- [Introduction](#introduction)
 - [Usage](#usage)
 - [Installation](#installation)
 - [Contribute](#contribute)
+
+# Introduction
 
 # Usage
 

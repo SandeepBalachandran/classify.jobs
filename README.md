@@ -32,6 +32,13 @@
     <img alt="ESLint" src="https://img.shields.io/github/forks/SandeepBalachandran/classify.jobs">
   </a>
   
+  <a href="" target="_blank">
+    <img alt="Codesize" src="https://img.shields.io/github/languages/code-size/SandeepBalachandran/classify.jobs.svg">
+  </a>
+  <a href="" target="_blank">
+    <img alt="Top Language" src="https://img.shields.io/github/languages/top/SandeepBalachandran/classify.jobs.svg">
+  </a>
+  
 </p>
 <hr>
 
